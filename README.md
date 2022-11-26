@@ -1,4 +1,3 @@
-# safetyapp
-User Dashboard for SafetyConnect app
+# masrafapp
 
-Project URL: https://umair-mirza.github.io/safetyapp/
+You can control your budget with masrafapp
