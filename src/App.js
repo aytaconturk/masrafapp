@@ -18,16 +18,16 @@ function App() {
 
           <div className="content">
             <Routes>
-              <Route path="/" element={<AnaSayfa />} />
+              <Route path="/masrafapp" element={<AnaSayfa />} />
               {/* <Route path="/masrafapp" element={<AnaSayfa />} /> */}
-              <Route path="/harcama-ekle" element={<HarcamaEklemeSayfasi />} />
+              <Route path="/masrafapp/harcama-ekle" element={<HarcamaEklemeSayfasi />} />
               <Route
-                path="/harcama-goruntule"
+                path="/masrafapp/harcama-goruntule"
                 element={<HarcamaGoruntulemeSayfasi />}
               />
-              <Route path="/kategoriler" element={<Kategoriler />} />
-              <Route path="/hesaplar" element={<Hesaplar />} />
-              <Route path="/kullanici" element={<Kullanici />} />
+              <Route path="/masrafapp/kategoriler" element={<Kategoriler />} />
+              <Route path="/masrafapp/hesaplar" element={<Hesaplar />} />
+              <Route path="/masrafapp/kullanici" element={<Kullanici />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </div>
