@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/masrafapp/static/css/main.91e4149f.css",
-    "main.js": "/masrafapp/static/js/main.d4ce033d.js",
+    "main.js": "/masrafapp/static/js/main.e47aaa70.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/masrafapp/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
     "static/media/fontawesome-webfont.eot": "/masrafapp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/masrafapp/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -11,10 +11,10 @@
     "static/media/enpara.svg": "/masrafapp/static/media/enpara.fd19fc743e16fcf2163329b88a6e5dff.svg",
     "index.html": "/masrafapp/index.html",
     "main.91e4149f.css.map": "/masrafapp/static/css/main.91e4149f.css.map",
-    "main.d4ce033d.js.map": "/masrafapp/static/js/main.d4ce033d.js.map"
+    "main.e47aaa70.js.map": "/masrafapp/static/js/main.e47aaa70.js.map"
   },
   "entrypoints": [
     "static/css/main.91e4149f.css",
-    "static/js/main.d4ce033d.js"
+    "static/js/main.e47aaa70.js"
   ]
 }
